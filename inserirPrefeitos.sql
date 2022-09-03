@@ -3,12 +3,12 @@ select * from cidades;
 insert into prefeitos (nome, cidade_id)
 values
     ('Rodrigo Neves', 2),
-    ('raquel Lyra', 3),
+    ('Raquel Lyra', 3),
     ('Zenaldo Coutinho', null);
 
 insert into prefeitos (nome, cidade_id)
 values
-    ('rafael Greca', null);
+    ('Rafael Greca', null);
 
 select * from prefeitos
 

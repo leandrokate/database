@@ -1,10 +1,10 @@
 select * from estados where sigla = 'RJ'
 
 insert into cidades (nome, area, estado_id)
-values ('Campinas', 795, 29)
+values ('Campinas', 795, 25)
 
 insert into cidades (nome, area, estado_id)
-values ('Niterói', 133.9, 23)
+values ('Niterói', 133.9, 19)
 
 insert into cidades (nome, area, estado_id)
 values ('Caruaru', 920.6, (
